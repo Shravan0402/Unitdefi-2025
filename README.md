@@ -2,12 +2,12 @@
 
 # Unitdefi-2025
 
-**Unitdefi-2025** is a decentralized finance (DeFi) protocol designed to simplify and enhance on-chain asset management. It focuses on enabling permissionless creation, swapping, and staking of assets with a modular and secure architecture. Its one of a kind
+**Unitdefi-2025** is a decentralized finance (DeFi) protocol designed to simplify and enhance on-chain asset management. It focuses on enabling permissionless creation, swapping, and staking of assets with a modular and secure architecture. Its one of a kind.
 
 
 ## 🚀 Features
 
-* 🔄 **Token Swapping** using leading AMM logic (Uniswap-like)
+* 🔄 **Token Swapping** using leading AMM logic (It functions like Uniswap)
 * 📈 **Liquidity Pooling** and LP token issuance
 * 🛡 **Staking and Rewards** system for protocol participants
 * 🌐 **On-chain Governance** with voting mechanisms
