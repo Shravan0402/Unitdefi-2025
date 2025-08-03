@@ -4,7 +4,6 @@
 
 **Unitdefi-2025** is a decentralized finance (DeFi) protocol designed to simplify and enhance on-chain asset management. It focuses on enabling permissionless creation, swapping, and staking of assets with a modular and secure architecture.
 
----
 
 ## 🚀 Features
 
